@@ -1,8 +1,10 @@
 # flutter_music_ui
 
-ScreenShot
+ScreenShot ![Alt Text](https://github.com/iang12/Music-Player-UI/blob/master/Screenshot_1551627298.png)
 A new Flutter project.
-![Alt text](/relative/path/to/Screenshot_1551627298.png?raw=true "Optional Title")
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
